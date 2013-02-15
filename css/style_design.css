@@ -1,0 +1,17 @@
+#main{
+    width:960px;
+    margin:50px auto;
+}
+#side_bar{
+    width:250px;
+    float:left;
+    background-color: teal;
+    height:600px; 
+}
+
+#main_body{
+    width:710px;
+    background-color: maroon;
+    float:left;
+    height:600px;
+}
